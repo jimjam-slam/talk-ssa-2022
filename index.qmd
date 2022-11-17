@@ -14,8 +14,6 @@ format:
 Hi, I'm James
 
 I'm D&DSL at 360info @ Monash Uni
-
-TODO - notes
 :::
 
 <h1 class="text-indigo-pink">Climate stories<h1>
@@ -30,22 +28,10 @@ Data and Digital Storytelling Lead, 360info
 
 ## Today {.center}
 
-::: {style="column-count: 2; column-rule: solid lightgrey;"}
-1. About me
-2. Why should I tell stories?
-  - It looks scary...
-  - ... but scientists are trusted!
-  - Charts can and do break through
-  - And it can help you in your work too
-3. Prime considerations
-  - Who's your audience?
-  - What do you want to achieve?
-  - Corollary: what's the point?
-4. other tools
-  - Case studies
-    - If you don't have one, tell your story
-5. Q&A
-:::
+1. Why should I tell stories?
+2. Prime considerations for comms
+3. Handling jargon in climate stories
+4. Conclusions
 
 ::: {style="margin-top:50px"}
 ### Slides
@@ -53,6 +39,10 @@ Data and Digital Storytelling Lead, 360info
 [**https://ssa2022.talks.jamesgoldie.dev**](https://ssa2022.talks.jamesgoldie.dev)
 
 [(Code for these slides is at [**https://github.com/jimjam-slam/talk-ssa-2022**](https://github.com/jimjam-slam/talk-datartathon-datavis-2022))]{style="font-size:1.2rem"}
+:::
+
+::: {notes}
+Slides aren't _currently_ up (but will be later today)
 :::
 
 # Hi! {.text-wash-black background="linear-gradient(45deg, #00aadd, #66dd00)"}
@@ -77,7 +67,9 @@ Data and Digital Storytelling Lead, 360info
 
 :::: {.column width="50%"  style="margin-top:25px"}
 ::: {.fragment fragment-index=1}
-I used to be a climate + health researcher 
+I used to be a climate + health researcher
+
+
 :::
 ::: {.fragment fragment-index=2}
 •
@@ -99,8 +91,25 @@ Now I'm a data journalist with
 
 ## {.center}
 
+:::: {.columns}
+
+:::{.column width="50%"}
+[![](images/360logo.svg){style="width:50%;"}](https://360info.org)
+
+**[360info](https://360info.org)** is an **open access** global information agency that tackles the world’s biggest challenges and offers practical solutions.
+
+Open data @ [**github.com/360-info**](https://github.com/360-info)
+:::
+
+:::{.column .fragment width="50%"}
+```{=html}
+<iframe allow="fullscreen" style="border: none; width: 100%; height: 575px;" src="https://360info-electricitytransition.pages.dev/map"></iframe>
+```
+:::
+::::
+
 ::: {.notes}
-I've been working at 360info for about 9 months
+I've been working at 360info for about a year
 
 We're a research-driven newswire, and we give everything away for free under Creative Commons so that all journalists can benefit from it
 
@@ -111,28 +120,13 @@ That means I do everything: coding, design and analysis.
 As our team grows, I'm also working with our infrastructure partners and looking for ways to make it easier for reporters and editors to use our charts
 :::
 
-:::: {.columns}
-
-:::{.column width="50%"}
-[![](images/360logo.svg){style="width:50%;"}](https://360info.org)
-
-**[360info](https://360info.org)** is an **open access** global information agency that tackles the world’s biggest challenges and offers practical solutions.
-:::
-
-:::{.column .fragment width="50%"}
-```{=html}
-<iframe allow="fullscreen" style="border: none; width: 100%; height: 500px;" src="https://360info-electricitytransition.pages.dev/map"></iframe>
-```
-:::
-::::
-
 # [Why should I]{.hl .hl-gold} tell stories? {.text-wash-black background="linear-gradient(45deg, #f37335, #fdc830)"}
 
 ## Scientists are trusted {.text-orange-gold .center style="text-align:center"}
 
 **Sources of climate change news you trust** [(n = 2038)]{style="color:orange"}
 
-![Barchart showing various sources of information on the Y-axis and the fraction of surveyed people who trust them to deliver claimate change information on the X-axis.](/images/audience-trust-climate-change.png){style="width:60%;margin-left: auto; margin-right: auto;"}
+![Barchart showing various sources of information on the Y-axis and the fraction of surveyed people who trust them to deliver climate change information on the X-axis.](/images/audience-trust-climate-change.png){style="width:60%;margin-left: auto; margin-right: auto;"}
 
 ::: {style="font-size:1.5rem"}
 [<i class="bi bi-file-earmark-text-fill"></i> Park et al. (2022, p. 18)](https://apo.org.au/node/317946)
@@ -173,18 +167,58 @@ I'm not saying all charts should be like the climate stripes
 But this chart serves a specific purpose really well
 :::
 
+## {.text-orange-gold .center style="text-align: center"}
+
+[<i class="bi bi-file-earmark-text-fill"></i> Climate Stripes by Ed Hawkins (showyourstripes.info)](https://showyourstripes.info){style="font-size:1.25rem"}
+
+:::{.panel-tabset style="transform: scale(0.75); transform-origin: top;"}
+
+## Stripes
+
+![Climate stripes in their original form](/images/climate-stripes.png)
+
+## Stripes with labels
+
+![Climate stripes with X axis labels](/images/climate-stripes-labelled.png)
+
+## Bars
+
+![Climate stripes as a barchart](/images/climate-stripes-bars.png)
+
+## Bars with labels
+
+![Climate stripes as a labelled barchart](/images/climate-stripes-bars-labelled.png)
+
+:::
+
+::: {.notes}
+The original climate stripes were designed specifically for public consumption - to start conversations about climate change.
+
+But as its popularity has grown, the uses of it have changed
+
+The website offers variations with more complexity
+:::
+
 ## {.center style="text-align:center"}
 
 [As]{style="color:orange"} **researchers,** [you have the opportunity to]{style="color:orange"} **build social consensus** [for a]{style="color:orange"} **policy action**, [for]{style="color:orange"} **change** [or to just]{style="color:orange"} **help people understand**
 
 [(It'll help you talk to your colleagues, too!)]{style="color: orange; font-size: smaller;"}
 
-# [Prime]{.hl .hl-purple style="color:white"} [considerations]{style="color: white;"} { background="linear-gradient(45deg, #4a00e0, #ff0099)"}
+::: {.notes}
+You can use visuals and stories to many ends - to change policies, to change behaviours, or just to help people understand the world.
+
+Or to better talk to each other!
+:::
+
+# [Prime]{.hl .hl-purple style="color:white"} [considerations]{style="color: white;"} {background="linear-gradient(45deg, #4a00e0, #ff0099)"}
 
 ::: {.notes}
 So let's talk about what you can do to make your stories heard
 
-The most important considerations aren't just for visuals: this is general communication advice!
+The most important considerations aren't just for climate change stories, or even just for data-driven visuals
+
+This is general communication advice!
 :::
 
 ## Who's your [audience?]{.hl} {.text-indigo-pink .center style="text-align:center"}
@@ -219,11 +253,19 @@ Convincing your colleagues to change their analyses?
 
 Convincing funders to 💰?
 
+Advising people in an an emergency?<strong>*</strong>
+
+[* do _not_ do this without specific training!]{style="font-size: 1.25rem;"}
+
 ::: {.notes}
-NOTES
+This is your _why_. Why are you doing this?
 :::
 
 ## What's the [point?]{.hl} {.text-indigo-pink .center style="text-align:center"}
+
+Point ≠ purpose: it's the point for the _reader_
+
+Avoid a "so what?" moment
 
 ::: {.notes}
 My colleagues in journalism call this different things
@@ -232,16 +274,22 @@ The "Hey Martha"
 
 The marmalade drop
 
-Editors are trained to make sure this moment hits in the opening paragraph or two
+The **purpose** is about what you want out of communicating;
+
+The **point** is about finding something that will catch your audience's attention
+
+In newsrooms, editors are trained to make sure this moment hits in the opening paragraph or two
 
 Readers shouldn't be shrugging and saying "so what?"
 
 This is really hard to evaluate when we're talking about our own work!
 
-Testing with friends and family can help
+There is lots of work that is useful and important but that doesn't have an immediate angle.
+
+Sometimes we need to get creative!
 :::
 
-## Considerations for TV {.text-indigo-pink .center style="text-align:center"}
+## What does that mean for a visual? {.text-indigo-pink .center style="text-align:center"}
 
 :::: {.columns}
 
@@ -251,37 +299,39 @@ Testing with friends and family can help
 
 ::: {.column width="40%"}
 ::: {.incremental style="text-align: left;"}
-* Short text
-* "Editorialised" headline or labels
-* Thick text and lines
-* Contrast and colour focus
-  - [(This example's not great for contrast! 😅)]{style="color:blueviolet; font-size: smaller"}
-* Presenter position
+* ~~**Audience:** the public?~~
+* **Audience:** evening news audience
+* **Time**: about 7 seconds
+* **Our purpose:** present evidence of climate change
+* **Our point**: summer days warming up near you
 :::
 :::
 
 ::::
 
-## Considerations for TV {.text-indigo-pink .center style="text-align:center"}
-
 ::: {.notes}
-There're a lot of potential messages in this chart.
+Here's an example of a time series from my last job, running during the weather segment in the evening news.
 
-The elements we've just talked about emphasise one primary message: warming.
+In this case, the graphics team took the graphic we supplied and remade it.
 
-Warming, here in Melbourne, right now.
+First question: who's our audience? We could just say the public, but let's be more specific and say that it's people watching the evening news.
 
-Everything else is secondary. If we're lucky, astute viewers might understand that the climate varies from year to year, or that we have a long, authoritative record here. Maybe they'll pick these messages up with repreated viewed.
+That tells us a few more things: they don't have much time. About 7 seconds, and
+they might be multi-tasking.
 
-But the primary message is designed to be understood even if someone reads the text and misses the chart.
+Our purpose here was to present evidence of climate change.
 
-Or if they just see the rising trend line and the orange background but miss everything else.
+But that's not the _point_.
+
+The point is that things are warming up close to home.
 :::
+
+## What does that mean for a visual? {.text-indigo-pink .center style="text-align:center"}
 
 ::::: {.columns}
 
 :::: {.column width="60%"}
-![Jane Bunn presenting climate change messaging on 7news  ](/images/7news-timeseries.png)
+![Jane Bunn presenting climate change messaging on 7news](/images/7news-timeseries.png)
 ::::
 
 :::: {.column width="40%"}
@@ -289,7 +339,7 @@ Or if they just see the rising trend line and the orange background but miss eve
 
 ::: {.incremental style="text-align: left;"}
 * Trend line up
-* Warming
+* Getting warmer
 :::
 
 **Secondary messages**
@@ -301,130 +351,162 @@ Or if they just see the rising trend line and the orange background but miss eve
 ::::
 :::::
 
+::: {.notes}
+There're a lot of potential messages in this chart.
 
-# [Working with <br>[[broadcasters]{.hl .hl-red} and [journalists]{.hl .hl-red}]{style="font-size:75%;"}]{style="color:white"} { background="linear-gradient(45deg, #ed213a, #93291e)"}
+But the first things people see emphasise our point.
+
+Everything else is secondary. If we're lucky, astute viewers might understand that the climate varies from year to year, or that we have a long, authoritative record here. 
+
+These graphics were designed to be repeated each month; maybe people will pick these messages up with repeated views.
+
+But the primary message is designed to be understood even if someone reads the headline and misses the chart.
+
+Or if they just see the rising trend line and the orange background but miss everything else.
+:::
+
+##  {.text-indigo-pink .center style="text-align:center"}
 
 ::: {.notes}
-XXX
+In a broadcast TV graphic, the point is basically the whole thing!
+
+This piece on the right is a longform scrollytelling piece.
+
+You might be tempted to think that you have more time here
+
+But the point is still important! People can and do close out of articles if the message doesn't land
+
+Scrollytelling pieces often build a complex visual up piece-by-piece. That's important to help the reader understand.
+
+But that doesn't mean they start the _story_ with the meaning of chart axes or colours.
+
+The point emotionally invests viewers. Then you can add context to the point and explain the need to go complex.
+
+_Then_ you can build a visual up.
 :::
 
-## Types of folks you'll meet {.text-red-brown .center style="text-align: center"}
+::::: {.columns}
 
-::: {.notes}
-Media is rarely a one person show!
+:::: {.column width="50%"}
+![](/images/mcccrh-7news.gif){alt="Screenshot of an ABC news story about climate change projections"}
 
-In broadcast, a reporter may contact you as part of a story. They might be building a news segment on their own or working with an editor, a camera operator or others, depending on the size and ambition of the story.
+::: {}
+[Display time:]{style="color:blueviolet"}
 
-You might also find a presenter reaching out to you directly. Some presenters have a large hand in writing stories, especially at smaller, regional newsrooms where the resources to support them don't exist. They could be doing the whole story on their own!
-
-Some newsrooms may have access to a separate team that handles graphics. These are folks who're experienced with apps like Creative Cloud, and potentially also specialised software for things like weather graphics. Some newsrooms may share graphics teams across cities, and in some newsrooms the presenter could be doing the graphics themself!
-
-Most broadcast newsrooms have a news director deciding which stories will make the program and how much time each story will get. It's not unusual for story timing to change live as the show is broadcasting, so be aware that presenters or reporters may find themselves with less time to present a story than they'd expected when the show began.
-
-Print and digital are largely split up into reporters and editors. Editors don't just check for typos: they make decisions about whether content should be cut, whether content needs to be added, whether the story will make sense to readers, how a story will look in the context of other stories. They're analogous to news directors in a lot of ways.
-:::
-
-:::: {.columns}
-::: {.column width="50%"}
-**In broadcast:**
-
-[Reporters and producers]{style="color:darkred"}
-
-[Presenters]{style="color:darkred"}
-
-[Graphics teams]{style="color:darkred"}
-
-[News directors]{style="color:darkred"}
-:::
-::: {.column width="50%"}
-**In print and digital:**
-
-[Reporters/journalists]{style="color:darkred"}
-
-[Editors]{style="color:darkred"}
-
-[Data journalism team]{style="color:darkred"}
-
-[(Data journo, designer, coder)]{style="color:darkred; font-size: 1.75rem"}
+**7-10 seconds**
 :::
 ::::
 
-## Newsroom resourcing {.text-red-brown .center style="text-align: center"}
+:::: {.column width="50%"}
+[![](/images/storylab-climatechange.png){alt="Screenshot of an ABC Story Lab article about climate change" style="width:39%"}](https://www.abc.net.au/news/2019-12-06/how-climate-change-has-impacted-your-life/11766018)
+
+::: {}
+[Reading time:]{style="color:blueviolet"}
+
+**11 minutes** [(excluding graphics)]{style="color:blueviolet"}
+:::
+::::
+
+:::::
+
+# [Jargon in [climate stories]{.hl .hl-red}]{style="color:white"} { background="linear-gradient(45deg, #ed213a, #93291e)"}
 
 ::: {.notes}
-All of these people have one thing in common with you: they have no time at all.
+Jargon is a topic that everyone knows they need to work on
 
-Academia crushes people with rolling long-term project milestones, but the media crushes people with fast-paced, day-to-day deadlines.
+I'm gonna cover it anyway!
 
-If a journalist calls you with a media request and says they have an hour or two for a response, it's not just because they aren't familiar with the pace of science: it's because they were given the story today and it has to be filed today. As well as chasing contacts for other stories, finding graphics for stories, and everything else.
+Talking to different audiences is like switching from writing a blog post to writing a manuscript
 
-Newsroom resources have been shrinking for a decade - the advertising business is busted.
-
-If you're a disaster researcher, they're calling you when something bad is happening. They're rushed, you feel pushed, stakes are high, everyone is angry.
-
-Taking the time to prep resources when a disaster isn't happening, to identify journalists who might be on your beat, and to get practice working with them pays dividends (like all practise!)
-
-It takes way more effort, but journalists will remember a good source when the Big Story rolls around, and it's a much better time to hit potentail gotchas.
+It's really easy to assume that you already know how to do it
 :::
 
-[Journalists who are]{style="color:darkred"} **looking** [for a particular story are time-poor]{style="color:darkred"}
+## Relating climate to weather {.text-red-brown .center style="text-align: center"}
 
-[Look for opportunities to]{style="color:darkred"} **push** [stories to journalists and]{style="color:darkred"} **develop relationships**
+:::: {.columns}
+::: {.column width="50%"}
+**Jargon**
 
-# Emergency communication {.text-orange-gold background="black" style="color:white"}
+[daily maxima]{style="color:darkred"}
 
-<h3 class="text-red-brown">EXTRA NOTE</h3>
+[maximum daily maximum]{style="color:darkred"}
+
+[area-averaged temperature]{style="color:darkred"}
+:::
+::: {.column width="50%"}
+**(Possible) alternative**
+
+[daytime temperatures]{style="color:darkred"}
+
+[hottest day]{style="color:darkred"}
+
+[temperature across Australia]{style="color:darkred"}
+:::
+::::
 
 ::: {.notes}
-I am 100% not trained in emergency communication or emergency broadcasting!
 
-I am not here to give you tips on doing it
+"Climate is what we expect; weather is what we get"
 
-I would generally advise you to avoid it as a researcher
+A good chunk of physical climate is the patterns we see across time and the three dimensions of space
+
+That means we have a lot of jargon for talking about spatial and temporal scales
+
+This is a tricky dance: in some cases we can get away with an apparent loss of precision in our words, because of the context.
+
+"Daytime temp" != "Maximum temperature", but audiences have been trained to relate the two. (So long as the difference isn't important to this application!)
 :::
 
-## Things to remember (for doing media) during a disaster {.text-orange-gold background="black" style="color:white"}
+## Trickier jargon {.text-red-brown .center style="text-align: center"}
+
+#### eg. extreme rainfall
+
+::: {style="column-count: 2; color: darkred"}
+Num. days ≥ fixed threshold
+
+Num. days ≥ historical quantile
+
+% total rain falling on those days
+
+Rainiest 3-day stretch
+
+Rainiest 5-day stretch
+
+etc.
+:::
 
 ::: {.notes}
-If an active disaster is happening and you get a media request, ask questions of the producer or reporter about the story context.
+This trade-off becomes more difficult as our statistics start to become indices.
 
-Will the piece air during the news or during an analysis show? The latter may have more room for context to build.
+There are many ways to characterise extreme rainfall:
 
-If you provide graphics during a disaster, be aware of how they may look without context. Could this map of historical earthquake hotspots be mistaken for a forecast? What can you do to ammeleorate the risk of confusion?
+The difference between these may not be important for your audience - it might be enough to say "there are more wet days" or "we're seeing more extreme rainfall"
 
-If you have the time, check the broadcaster out and look at their graphics. Are they using language, icons or colours around warnings? Avoid those!
+But if our conclusion is sensitive to the choice of index, we could have a communication problem
+
+The solution then might not be "use a very long compound noun or an acronym"; it may be "this story is more complex than we thought".
+
+We need to ask ourselves about our purpose and our point again.
 :::
-
-* Ask questions about context
-  - What kind of show is it? News? Analysis?
-* Graphics context
-  - Do your titles and labels make the non-emergency context clear?
-  - Do colours, icons or words conflict with official warning messaging?
 
 # Conclusions {.text-black-white background="linear-gradient(45deg, #fff, #666)"}
 
-::: {.notes}
-XXX
-:::
+## Your expertise is [trusted]{.hl} {.center style="text-align:center;"}
 
-## Mass media is a great way for researchers to affect change! {.center style="text-align:center;"}
+## Think about [audience,]{.hl} [purpose]{.hl} and [point]{.hl} {.center style="text-align:center;"}
 
-## Keep your graphics [simple]{.hl} and think about the [primary]{.hl} message {.center style="text-align:center;"}
-
-## Journos are [time-poor]{.hl} too.<br>You [can]{.hl} understand each other. {.center style="text-align:center;"}
-
-## Be [careful]{.hl} communicating during a disaster {.center style="text-align:center;"}
+## [Reduce]{.hl} jargon...<br>[but keep your aims in mind]{style="font-size: 2.5rem"}  {.center style="text-align:center;"}
 
 ::: {.notes}
-XXX
+NOTES
 :::
 
 # Thanks for listening!
 
 Questions?
 
-[**@jimjam-slam**](https://twitter.com/jimjam-slam)
+[<i class="bi bi-twitter"></i> **360info_global**](https://twitter.com/360info_global)
 
-[**360info.org**](https://360info.org)
+[<i class="bi bi-globe2"></i> **360info.org**](https://360info.org)
 
-[**github.com/360-info**](https://github.com/360-info)
+[<i class="bi bi-github"></i> **github.com/360-info**](https://github.com/360-info)
