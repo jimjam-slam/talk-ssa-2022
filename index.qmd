@@ -455,6 +455,15 @@ That means we have a lot of jargon for talking about spatial and temporal scales
 This is a tricky dance: in some cases we can get away with an apparent loss of precision in our words, because of the context.
 
 "Daytime temp" != "Maximum temperature", but audiences have been trained to relate the two. (So long as the difference isn't important to this application!)
+
+The other interesting thing is that people's intuition starts to drift - not just with complexity in the measure, but with the time and especially space scales
+
+When we talk about daily temperature in a city, people link it to their experience
+
+If we talk about a hot day across Australia, that's a little harder to grasp!
+
+Once you get to the point of a country or the globe having a hot or cold year, it starts to be more of an intellectual exercise
+
 :::
 
 ## Trickier jargon {.text-red-brown .center style="text-align: center"}
