@@ -41,7 +41,7 @@ Data and Digital Storytelling Lead, 360info
 [(Code for these slides is at [**https://github.com/jimjam-slam/talk-ssa-2022**](https://github.com/jimjam-slam/talk-datartathon-datavis-2022))]{style="font-size:1.2rem"}
 :::
 
-::: {notes}
+::: {.notes}
 Slides aren't _currently_ up (but will be later today)
 :::
 
