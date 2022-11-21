@@ -1,0 +1,303 @@
+[
+  {
+    "objectID": "LICENCE.html",
+    "href": "LICENCE.html",
+    "title": "",
+    "section": "",
+    "text": "Copyright (c) 2022 James Goldie\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "",
+    "section": "",
+    "text": "Hi, I’m James\nI’m D&DSL at 360info @ Monash Uni\n\n\nClimate stories\n\n\nWith, and around, data\n\n\nJAMES GOLDIE\nData and Digital Storytelling Lead, 360info"
+  },
+  {
+    "objectID": "index.html#today",
+    "href": "index.html#today",
+    "title": "",
+    "section": "Today",
+    "text": "Today\n\nWhy should I tell stories?\nPrime considerations for comms\nHandling jargon in climate stories\nConclusions\n\n\nSlides\nhttps://ssa2022.talks.jamesgoldie.dev\n(Code for these slides is at https://github.com/jimjam-slam/talk-ssa-2022)\n\n\nSlides aren’t currently up (but will be later today)"
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "",
+    "section": "",
+    "text": "I used to be a climate + health researcher\n\n\n•\nWorked with CLEX and MCCCRH on climate change communication\n\n\n•\n\nNow I’m a data journalist with"
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "",
+    "section": "",
+    "text": "360info is an open access global information agency that tackles the world’s biggest challenges and offers practical solutions.\nOpen data @ github.com/360-info\n\n\n\n\n\nI’ve been working at 360info for about a year\nWe’re a research-driven newswire, and we give everything away for free under Creative Commons so that all journalists can benefit from it\nPart of my role is creating our visuals. (click)\nThat means I do everything: coding, design and analysis.\nAs our team grows, I’m also working with our infrastructure partners and looking for ways to make it easier for reporters and editors to use our charts"
+  },
+  {
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
+    "title": "",
+    "section": "",
+    "text": "But charts can break through\n\n Climate Stripes by Ed Hawkins\n\n\nThis is an extreme example of Tufte’s data-to-ink ideas\nI’m not saying all charts should be like the climate stripes\nBut this chart serves a specific purpose really well"
+  },
+  {
+    "objectID": "index.html#trust",
+    "href": "index.html#trust",
+    "title": "",
+    "section": "Trust",
+    "text": "Trust\n\nThe good news is that researchers are still really trusted - much more so than other figures - in many fields.\nThis survey looked at who people trust for news about climate change. The standout source is researchers and scientists, trusted by half the audience.\n\nSources of climate change news you trust (n = 2038)\n\nBarchart showing various sources of information on the Y-axis and the fraction of surveyed people who trust them to deliver claimate change information on the X-axis.\n Park et al. (2022, p. 18)"
+  },
+  {
+    "objectID": "index.html#section-4",
+    "href": "index.html#section-4",
+    "title": "",
+    "section": "",
+    "text": "Climate Stripes by Ed Hawkins (showyourstripes.info)\n\nStripesStripes with labelsBarsBars with labels\n\n\n\n\n\nClimate stripes in their original form\n\n\n\n\n\n\n\nClimate stripes with X axis labels\n\n\n\n\n\n\n\nClimate stripes as a barchart\n\n\n\n\n\n\n\nClimate stripes as a labelled barchart\n\n\n\n\n\n\nThe original climate stripes were designed specifically for public consumption - to start conversations about climate change.\nBut as its popularity has grown, the uses of it have changed\nThe website offers variations with more complexity"
+  },
+  {
+    "objectID": "index.html#alternatives",
+    "href": "index.html#alternatives",
+    "title": "",
+    "section": "Alternatives",
+    "text": "Alternatives\n\nI’m going to talk a bit about designing graphics for broadcast TV.\nWhy TV? You don’t have to use TV! There are other opportunities to get a message out to large audiences, even once we rule out the smaller, more fragmented things like social media.\nThe other visual media are newspapers and digital. But these are very different.\nWhat’s the difference between these two stories?\n\n\n\n\n\nDisplay time:\n7-10 seconds\n\n\n\n\n\n\n\n\nReading time:\n11 minutes (excluding graphics)"
+  },
+  {
+    "objectID": "index.html#attention-span",
+    "href": "index.html#attention-span",
+    "title": "",
+    "section": "Attention span",
+    "text": "Attention span\n\nThe big difference is the time and the energy users are investing.\nAt one end is long-form journalism. Users here are looking for insightful content, but you have to reward their attention, because every paragraph is an opportunity for them to click away permanently.\nYou have an opportunity to tell a complex story, but it has to progress slowly enough in its complexity to keep users following all the way.\nAt the opposite end of the scale, in broadcast news, people are more likely to stay watching but not very likely to be engaged.\nThey’re probably multi-tasking: scrolling online, cooking dinner, talking to family members.\nWhole segments might be a minute or two, but your opportunity to communicate is probably just a few seconds, because someone may not have seen the minute or two beforehand.\nYou need to work with very little context.\n\n\n\n\nPart of a long-form interactive story\nLong-form online video\nBlog post\nRegular news articles\nTV news segment\nShort-form online video\nA single shot in a TV news segment\n\n\n\n\n\nMany minutes, very engaged\n\nA few seconds, a little engaged\n\n\n\n\n\nComplex ideas, built up gradually\n\n(Very, very, very) simple ideas\n\n\n\n\n\n\n\n\nJane Bunn presenting climate change messaging on 7news\n\n\n\nPrimary messages\n\n\nTrend line up\nWarming\n\n\nSecondary messages\n\n\nYear-to-year variability\nLength of data record"
+  },
+  {
+    "objectID": "index.html#considerations-for-tv",
+    "href": "index.html#considerations-for-tv",
+    "title": "",
+    "section": "Considerations for TV",
+    "text": "Considerations for TV\n\n\n\n\n\nJane Bunn presenting climate change messaging on 7news\n\n\n\nPrimary messages\n\n\nTrend line up\nWarming\n\n\nSecondary messages\n\n\nYear-to-year variability\nLength of data record\n\n\n\n\n\nThere’re a lot of potential messages in this chart.\nThe elements we’ve just talked about emphasise one primary message: warming.\nWarming, here in Melbourne, right now.\nEverything else is secondary. If we’re lucky, astute viewers might understand that the climate varies from year to year, or that we have a long, authoritative record here. Maybe they’ll pick these messages up with repreated viewed.\nBut the primary message is designed to be understood even if someone reads the text and misses the chart.\nOr if they just see the rising trend line and the orange background but miss everything else."
+  },
+  {
+    "objectID": "index.html#considerations-for-tv-1",
+    "href": "index.html#considerations-for-tv-1",
+    "title": "",
+    "section": "Considerations for TV",
+    "text": "Considerations for TV\n\nThere’re a lot of potential messages in this chart.\nThe elements we’ve just talked about emphasise one primary message: warming.\nWarming, here in Melbourne, right now.\nEverything else is secondary. If we’re lucky, astute viewers might understand that the climate varies from year to year, or that we have a long, authoritative record here. Maybe they’ll pick these messages up with repreated viewed.\nBut the primary message is designed to be understood even if someone reads the text and misses the chart.\nOr if they just see the rising trend line and the orange background but miss everything else.\n\n\n\n\n\n\nJane Bunn presenting climate change messaging on 7news\n\n\n\nPrimary messages\n\n\nTrend line up\nWarming\n\n\nSecondary messages\n\n\nYear-to-year variability\nLength of data record"
+  },
+  {
+    "objectID": "index.html#types-of-folks-youll-meet",
+    "href": "index.html#types-of-folks-youll-meet",
+    "title": "",
+    "section": "Types of folks you’ll meet",
+    "text": "Types of folks you’ll meet\n\nMedia is rarely a one person show!\nIn broadcast, a reporter may contact you as part of a story. They might be building a news segment on their own or working with an editor, a camera operator or others, depending on the size and ambition of the story.\nYou might also find a presenter reaching out to you directly. Some presenters have a large hand in writing stories, especially at smaller, regional newsrooms where the resources to support them don’t exist. They could be doing the whole story on their own!\nSome newsrooms may have access to a separate team that handles graphics. These are folks who’re experienced with apps like Creative Cloud, and potentially also specialised software for things like weather graphics. Some newsrooms may share graphics teams across cities, and in some newsrooms the presenter could be doing the graphics themself!\nMost broadcast newsrooms have a news director deciding which stories will make the program and how much time each story will get. It’s not unusual for story timing to change live as the show is broadcasting, so be aware that presenters or reporters may find themselves with less time to present a story than they’d expected when the show began.\nPrint and digital are largely split up into reporters and editors. Editors don’t just check for typos: they make decisions about whether content should be cut, whether content needs to be added, whether the story will make sense to readers, how a story will look in the context of other stories. They’re analogous to news directors in a lot of ways.\n\n\n\nIn broadcast:\nReporters and producers\nPresenters\nGraphics teams\nNews directors\n\nIn print and digital:\nReporters/journalists\nEditors\nData journalism team\n(Data journo, designer, coder)"
+  },
+  {
+    "objectID": "index.html#newsroom-resourcing",
+    "href": "index.html#newsroom-resourcing",
+    "title": "",
+    "section": "Newsroom resourcing",
+    "text": "Newsroom resourcing\n\nAll of these people have one thing in common with you: they have no time at all.\nAcademia crushes people with rolling long-term project milestones, but the media crushes people with fast-paced, day-to-day deadlines.\nIf a journalist calls you with a media request and says they have an hour or two for a response, it’s not just because they aren’t familiar with the pace of science: it’s because they were given the story today and it has to be filed today. As well as chasing contacts for other stories, finding graphics for stories, and everything else.\nNewsroom resources have been shrinking for a decade - the advertising business is busted.\nIf you’re a disaster researcher, they’re calling you when something bad is happening. They’re rushed, you feel pushed, stakes are high, everyone is angry.\nTaking the time to prep resources when a disaster isn’t happening, to identify journalists who might be on your beat, and to get practice working with them pays dividends (like all practise!)\nIt takes way more effort, but journalists will remember a good source when the Big Story rolls around, and it’s a much better time to hit potentail gotchas.\n\nJournalists who are looking for a particular story are time-poor\nLook for opportunities to push stories to journalists and develop relationships"
+  },
+  {
+    "objectID": "index.html#things-to-remember-for-doing-media-during-a-disaster",
+    "href": "index.html#things-to-remember-for-doing-media-during-a-disaster",
+    "title": "",
+    "section": "Things to remember (for doing media) during a disaster",
+    "text": "Things to remember (for doing media) during a disaster\n\nIf an active disaster is happening and you get a media request, ask questions of the producer or reporter about the story context.\nWill the piece air during the news or during an analysis show? The latter may have more room for context to build.\nIf you provide graphics during a disaster, be aware of how they may look without context. Could this map of historical earthquake hotspots be mistaken for a forecast? What can you do to ammeleorate the risk of confusion?\nIf you have the time, check the broadcaster out and look at their graphics. Are they using language, icons or colours around warnings? Avoid those!\n\n\nAsk questions about context\n\nWhat kind of show is it? News? Analysis?\n\nGraphics context\n\nDo your titles and labels make the non-emergency context clear?\nDo colours, icons or words conflict with official warning messaging?"
+  },
+  {
+    "objectID": "index.html#mass-media-is-a-great-way-for-researchers-to-affect-change",
+    "href": "index.html#mass-media-is-a-great-way-for-researchers-to-affect-change",
+    "title": "",
+    "section": "Mass media is a great way for researchers to affect change!",
+    "text": "Mass media is a great way for researchers to affect change!"
+  },
+  {
+    "objectID": "index.html#keep-your-graphics-simple-and-think-about-the-primary-message",
+    "href": "index.html#keep-your-graphics-simple-and-think-about-the-primary-message",
+    "title": "",
+    "section": "Keep your graphics simple and think about the primary message",
+    "text": "Keep your graphics simple and think about the primary message"
+  },
+  {
+    "objectID": "index.html#journos-are-time-poor-too.-you-can-understand-each-other.",
+    "href": "index.html#journos-are-time-poor-too.-you-can-understand-each-other.",
+    "title": "",
+    "section": "Journos are time-poor too.You can understand each other.",
+    "text": "Journos are time-poor too.You can understand each other."
+  },
+  {
+    "objectID": "index.html#be-careful-communicating-during-a-disaster",
+    "href": "index.html#be-careful-communicating-during-a-disaster",
+    "title": "",
+    "section": "Be careful communicating during a disaster",
+    "text": "Be careful communicating during a disaster\n\nXXX"
+  },
+  {
+    "objectID": "index.html#scientists-are-trusted",
+    "href": "index.html#scientists-are-trusted",
+    "title": "",
+    "section": "Scientists are trusted",
+    "text": "Scientists are trusted\nSources of climate change news you trust (n = 2038)\n\nBarchart showing various sources of information on the Y-axis and the fraction of surveyed people who trust them to deliver climate change information on the X-axis.\n Park et al. (2022, p. 18)\n\n\nResearchers are really trusted - much more so than other figures - in many fields.\nThis survey looked at who people trust for news about climate change. The standout source is researchers and scientists, trusted by half the audience."
+  },
+  {
+    "objectID": "index.html#scientists-are",
+    "href": "index.html#scientists-are",
+    "title": "",
+    "section": "Scientists are",
+    "text": "Scientists are\n\nThe good news is that researchers are still really trusted - much more so than other figures - in many fields.\nThis survey looked at who people trust for news about climate change. The standout source is researchers and scientists, trusted by half the audience.\n\nSources of climate change news you trust (n = 2038)\n\nBarchart showing various sources of information on the Y-axis and the fraction of surveyed people who trust them to deliver claimate change information on the X-axis.\n Park et al. (2022, p. 18)"
+  },
+  {
+    "objectID": "index.html#the-challenge",
+    "href": "index.html#the-challenge",
+    "title": "",
+    "section": "The Challenge",
+    "text": "The Challenge\n\"Worth noting, however, is the frequent use of charts and graphs in the context of these frames. Interpretation of graphical representations requires a relatively advanced skill set, and may therefore serve to distance some potential audiences.\n“Furthermore, such representations lack the perceived realism of photographic images, potentially rendering them less memorable and less likely to be perceived as “truth.”\n\n Rebich-Hespanha (2014), investigating the use of visuals in the media\n\n\nNOTES"
+  },
+  {
+    "objectID": "index.html#the-chart-challenge",
+    "href": "index.html#the-chart-challenge",
+    "title": "",
+    "section": "The chart challenge",
+    "text": "The chart challenge\n\"Interpretation of graphical representations requires a relatively advanced skill set, and may therefore serve to distance some potential audiences.\n“Furthermore, [charts and graphs] lack the perceived realism of photographic images, potentially rendering them less memorable and less likely to be perceived as “truth.”\n\n Rebich-Hespanha (2014), investigating the use of visuals in the media\n\n\nNOTES"
+  },
+  {
+    "objectID": "index.html#but-charts-can-break-through",
+    "href": "index.html#but-charts-can-break-through",
+    "title": "",
+    "section": "But charts can break through",
+    "text": "But charts can break through"
+  },
+  {
+    "objectID": "index.html#whos-your-audience",
+    "href": "index.html#whos-your-audience",
+    "title": "",
+    "section": "Who’s your audience?",
+    "text": "Who’s your audience?\nThe public?\nAudience at a university event?\nFunders?\nPeers/colleagues?\n\nWhat kind of training do they have?\nWhat are they interested in?\nHow much time do they have?\n\n\nNOTES"
+  },
+  {
+    "objectID": "index.html#whats-your-purpose",
+    "href": "index.html#whats-your-purpose",
+    "title": "",
+    "section": "What’s your purpose?",
+    "text": "What’s your purpose?\nHelping people evaluate a policy?\nChanging individual behaviours?\nConvincing your colleagues to change their analyses?\nConvincing funders to 💰?\nAdvising people in an an emergency?*\n* do not do this without specific training!\n\nThis is your why. Why are you doing this?"
+  },
+  {
+    "objectID": "index.html#whats-the-point",
+    "href": "index.html#whats-the-point",
+    "title": "",
+    "section": "What’s the point?",
+    "text": "What’s the point?\nPoint ≠ purpose: it’s the point for the reader\nAvoid a “so what?” moment\n\nMy colleagues in journalism call this different things\nThe “Hey Martha”\nThe marmalade drop\nThe purpose is about what you want out of communicating;\nThe point is about finding something that will catch your audience’s attention\nIn newsrooms, editors are trained to make sure this moment hits in the opening paragraph or two\nReaders shouldn’t be shrugging and saying “so what?”\nThis is really hard to evaluate when we’re talking about our own work!\nThere is lots of work that is useful and important but that doesn’t have an immediate angle.\nSometimes we need to get creative!"
+  },
+  {
+    "objectID": "index.html#okay-but-what-does-that-mean-for-a-visual",
+    "href": "index.html#okay-but-what-does-that-mean-for-a-visual",
+    "title": "",
+    "section": "Okay, but what does that mean for a visual?",
+    "text": "Okay, but what does that mean for a visual?\n\nThere’re a lot of potential messages in this chart.\nThe elements we’ve just talked about emphasise one primary message: warming.\nWarming, here in Melbourne, right now.\nEverything else is secondary. If we’re lucky, astute viewers might understand that the climate varies from year to year, or that we have a long, authoritative record here. Maybe they’ll pick these messages up with repreated viewed.\nBut the primary message is designed to be understood even if someone reads the text and misses the chart.\nOr if they just see the rising trend line and the orange background but miss everything else."
+  },
+  {
+    "objectID": "index.html#what-does-that-mean-for-a-visual",
+    "href": "index.html#what-does-that-mean-for-a-visual",
+    "title": "",
+    "section": "What does that mean for a visual?",
+    "text": "What does that mean for a visual?\n\n\n\n\n\nJane Bunn presenting climate change messaging on 7news\n\n\n\n\n\nAudience: the public?\nAudience: evening news audience\nTime: about 7 seconds\nOur purpose: present evidence of climate change\nOur point: summer days warming up near you\n\n\n\n\n\nHere’s an example of a time series from my last job, running during the weather segment in the evening news.\nIn this case, the graphics team took the graphic we supplied and remade it.\nFirst question: who’s our audience? We could just say the public, but let’s be more specific and say that it’s people watching the evening news.\nThat tells us a few more things: they don’t have much time. About 7 seconds, and they might be multi-tasking.\nOur purpose here was to present evidence of climate change.\nBut that’s not the point.\nThe point is that things are warming up close to home."
+  },
+  {
+    "objectID": "index.html#what-does-that-mean-for-a-visual-1",
+    "href": "index.html#what-does-that-mean-for-a-visual-1",
+    "title": "",
+    "section": "What does that mean for a visual?",
+    "text": "What does that mean for a visual?\n\n\n\n\n\nJane Bunn presenting climate change messaging on 7news\n\n\n\nPrimary messages\n\n\nTrend line up\nGetting warmer\n\n\nSecondary messages\n\n\nYear-to-year variability\nLength of data record\n\n\n\n\n\nThere’re a lot of potential messages in this chart.\nBut the first things people see emphasise our point.\nEverything else is secondary. If we’re lucky, astute viewers might understand that the climate varies from year to year, or that we have a long, authoritative record here.\nThese graphics were designed to be repeated each month; maybe people will pick these messages up with repeated views.\nBut the primary message is designed to be understood even if someone reads the headline and misses the chart.\nOr if they just see the rising trend line and the orange background but miss everything else."
+  },
+  {
+    "objectID": "index.html#section-5",
+    "href": "index.html#section-5",
+    "title": "",
+    "section": "",
+    "text": "As researchers, you have the opportunity to build social consensus for a policy action, for change or to just help people understand\n(It’ll help you talk to your colleagues, too!)\n\nYou can use visuals and stories to many ends - to change policies, to change behaviours, or just to help people understand the world.\nOr to better talk to each other!"
+  },
+  {
+    "objectID": "index.html#relating-climate-to-weather",
+    "href": "index.html#relating-climate-to-weather",
+    "title": "",
+    "section": "Relating climate to weather",
+    "text": "Relating climate to weather\n\n\nJargon\ndaily maxima\nmaximum daily maximum\narea-averaged temperature\n\n(Possible) alternative\ndaytime temperatures\nhottest day\ntemperature across Australia\n\n\n\n“Climate is what we expect; weather is what we get”\nA good chunk of physical climate is the patterns we see across time and the three dimensions of space\nThat means we have a lot of jargon for talking about spatial and temporal scales\nThis is a tricky dance: in some cases we can get away with an apparent loss of precision in our words, because of the context.\n“Daytime temp” != “Maximum temperature”, but audiences have been trained to relate the two. (So long as the difference isn’t important to this application!)\nThe other interesting thing is that people’s intuition starts to drift - not just with complexity in the measure, but with the time and especially space scales\nWhen we talk about daily temperature in a city, people link it to their experience\nIf we talk about a hot day across Australia, that’s a little harder to grasp!\nOnce you get to the point of a country or the globe having a hot or cold year, it starts to be more of an intellectual exercise"
+  },
+  {
+    "objectID": "index.html#trickier-jargon",
+    "href": "index.html#trickier-jargon",
+    "title": "",
+    "section": "Trickier jargon",
+    "text": "Trickier jargon\neg. extreme rainfall\n\nNum. days ≥ fixed threshold\nNum. days ≥ historical quantile\n% total rain falling on those days\nRainiest 3-day stretch\nRainiest 5-day stretch\netc.\n\n\nThis trade-off becomes more difficult as our statistics start to become indices.\nThere are many ways to characterise extreme rainfall:\nThe difference between these may not be important for your audience - it might be enough to say “there are more wet days” or “we’re seeing more extreme rainfall”\nBut if our conclusion is sensitive to the choice of index, we could have a communication problem\nThe solution then might not be “use a very long compound noun or an acronym”; it may be “this story is more complex than we thought”.\nWe need to ask ourselves about our purpose and our point again."
+  },
+  {
+    "objectID": "index.html#finding-the-complexity-level",
+    "href": "index.html#finding-the-complexity-level",
+    "title": "",
+    "section": "Finding the complexity level",
+    "text": "Finding the complexity level\n Climate Stripes by Ed Hawkins (showyourstripes.info)\n\nStripesStripes with labelsBarsBars with labels\n\n\n\n\n\nClimate stripes in their original form\n\n\n\n\n\n\n\nClimate stripes with X axis labels\n\n\n\n\n\n\n\nClimate stripes as a barchart\n\n\n\n\n\n\n\nClimate stripes as a labelled barchart\n\n\n\n\n\n\nThe original climate stripes were designed specifically for public consumption - to start conversations about climate change.\nBut as its popularity has grown, the uses of it have changed\nThe website offers variations with more complexity"
+  },
+  {
+    "objectID": "index.html#you-can-and-should-communicate",
+    "href": "index.html#you-can-and-should-communicate",
+    "title": "",
+    "section": "You can and should communicate!",
+    "text": "You can and should communicate!"
+  },
+  {
+    "objectID": "index.html#section-6",
+    "href": "index.html#section-6",
+    "title": "",
+    "section": "",
+    "text": "In a broadcast TV graphic, the point is basically the whole thing!\nThis piece on the right is a longform scrollytelling piece.\nYou might be tempted to think that you have more time here\nBut the point is still important! People can and do close out of articles if the message doesn’t land\nScrollytelling pieces often build a complex visual up piece-by-piece. That’s important to help the reader understand.\nBut that doesn’t mean they start the story with the meaning of chart axes or colours.\nThe point emotionally invests viewers. Then you can add context to the point and explain the need to go complex.\nThen you can build a visual up.\n\n\n\n\n\nDisplay time:\n7-10 seconds\n\n\n\n\n\n\n\n\nReading time:\n11 minutes (excluding graphics)"
+  },
+  {
+    "objectID": "index.html#think-about-audience-purpose-anf-point",
+    "href": "index.html#think-about-audience-purpose-anf-point",
+    "title": "",
+    "section": "Think about audience, purpose anf point",
+    "text": "Think about audience, purpose anf point"
+  },
+  {
+    "objectID": "index.html#keep-your-graphics-simple-where-you-can",
+    "href": "index.html#keep-your-graphics-simple-where-you-can",
+    "title": "",
+    "section": "Keep your graphics simple… where you can",
+    "text": "Keep your graphics simple… where you can\n\nXXX"
+  },
+  {
+    "objectID": "index.html#think-about-audience-purpose-and-point",
+    "href": "index.html#think-about-audience-purpose-and-point",
+    "title": "",
+    "section": "Think about audience, purpose and point",
+    "text": "Think about audience, purpose and point"
+  },
+  {
+    "objectID": "index.html#use-simple-language-but-not",
+    "href": "index.html#use-simple-language-but-not",
+    "title": "",
+    "section": "Use simple language… but not",
+    "text": "Use simple language… but not\n\nNOTES"
+  },
+  {
+    "objectID": "index.html#your-expertise-is-trusted-purpose-and-point",
+    "href": "index.html#your-expertise-is-trusted-purpose-and-point",
+    "title": "",
+    "section": "Your expertise is trusted purpose and point",
+    "text": "Your expertise is trusted purpose and point"
+  },
+  {
+    "objectID": "index.html#your-expertise-is-trusted",
+    "href": "index.html#your-expertise-is-trusted",
+    "title": "",
+    "section": "Your expertise is trusted",
+    "text": "Your expertise is trusted"
+  },
+  {
+    "objectID": "index.html#reduce-jargon-but-keep-your-aims-in-mind",
+    "href": "index.html#reduce-jargon-but-keep-your-aims-in-mind",
+    "title": "",
+    "section": "Reduce jargon…but keep your aims in mind",
+    "text": "Reduce jargon…but keep your aims in mind\n\nNOTES"
+  }
+]
